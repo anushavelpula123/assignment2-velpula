@@ -40,9 +40,9 @@ Kansas City international Airport 1 international Square,kansas City,MO 64153
 destination will be on the right.
 
 ### Some favourite dishes
-*MEXICAN SALAD
-*HOT DOGS
-*REUBEN SANDWIhih
+* MEXICAN SALAD
+* HOT DOGS
+* REUBEN SANDWICH
 
 Click [here](https://github.com/anushavelpula123/assignment2-velpula/blob/main/AboutMe.md) to go to AboutMe.md
 
