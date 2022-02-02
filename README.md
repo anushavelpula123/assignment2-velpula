@@ -45,3 +45,16 @@ destination will be on the right.
 *REUBEN SANDWIhih
 
 Click [here](https://github.com/anushavelpula123/assignment2-velpula/blob/main/AboutMe.md) to go to AboutMe.md
+
+-----------------------------------------------
+
+# Sports
+
+Below mentioned is a list of sports that I would recommend for anyone.
+
+|  Name       |  Location   | Amount|
+|-------------|-------------|-------|
+|  Basketball | Recreation  |  $40  |
+|  Volleyball | Recreation  |  $35  |
+|  Soccer     | Recreation  |  $50  |
+|  Tennis     | Recreation  |  $50  |
