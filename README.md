@@ -58,3 +58,12 @@ Below mentioned is a list of sports that I would recommend for anyone.
 |  Volleyball | Recreation  |  $35  |
 |  Soccer     | Recreation  |  $50  |
 |  Tennis     | Recreation  |  $50  |
+
+-------------------------------------------------
+
+# Quotes
+
+> There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self - ERNEST HEMINGWAY
+
+> If you’re always trying to be normal you will never know how amazing you can be - MAYA ANGELOU
+
