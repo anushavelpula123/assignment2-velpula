@@ -42,10 +42,6 @@ destination will be on the right.
 ### Some favourite dishes
 *MEXICAN SALAD
 *HOT DOGS
-*REUBEN SANDWICH
+*REUBEN SANDWIhih
 
-
-
-
-
-
+Click [here](https://github.com/anushavelpula123/assignment2-velpula/blob/main/AboutMe.md) to go to AboutMe.md
