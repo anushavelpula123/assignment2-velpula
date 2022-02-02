@@ -63,7 +63,7 @@ Below mentioned is a list of sports that I would recommend for anyone.
 
 # Quotes
 
-> There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self - ERNEST HEMINGWAY
+> There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self - _ERNEST HEMINGWAY_
 
-> If you’re always trying to be normal you will never know how amazing you can be - MAYA ANGELOU
+> If you’re always trying to be normal you will never know how amazing you can be - _MAYA ANGELOU_
 
