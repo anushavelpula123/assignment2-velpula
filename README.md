@@ -1,4 +1,4 @@
-# assignment2-velpuls
+# assignment2-velpula
 # Anusha Velpula
 
 #### maryville
