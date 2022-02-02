@@ -71,7 +71,7 @@ Below mentioned is a list of sports that I would recommend for anyone.
 
 # S Number - 3
 
-> Given a connected and undirected graph, a spanning tree of that graph is a subgraph that is a tree and connects all the vertices together. A single graph can have many different spanning trees. A minimum spanning tree (MST) or minimum weight spanning tree for a weighted, connected, undirected graph is a spanning tree with a weight less than or equal to the weight of every other spanning tree. The weight of a spanning tree is the sum of weights given to each edge of the spanning tree. [Source link] (https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
+> Given a connected and undirected graph, a spanning tree of that graph is a subgraph that is a tree and connects all the vertices together. A single graph can have many different spanning trees. A minimum spanning tree (MST) or minimum weight spanning tree for a weighted, connected, undirected graph is a spanning tree with a weight less than or equal to the weight of every other spanning tree. The weight of a spanning tree is the sum of weights given to each edge of the spanning tree. [Source-link] (https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
 
 ```
 struct Edge {
@@ -105,4 +105,4 @@ for (Edge e : edges) {
     }
 }
 ```
-[Source Code Link] (https://cp-algorithms.com/graph/mst_kruskal.html)
+[Source-Code-Link] (https://cp-algorithms.com/graph/mst_kruskal.html)
