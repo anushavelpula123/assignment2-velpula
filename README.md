@@ -14,29 +14,29 @@
 
 Kansas City international Airport 1 international Square,kansas City,MO 64153
 
-head soyth on N Frederick St toward W 1st St
+1. head soyth on N Frederick St toward W 1st St
 
-Turn right onto W 1st St 50ft
+2. Turn right onto W 1st St 50ft
 
-Turn left onto S Munn Ave 450ft
+3. Turn left onto S Munn Ave 450ft
 
-Turn left onto s Hills Dr 1.5mi
+4. Turn left onto s Hills Dr 1.5mi
 
-Turn right onto US-71 BUS S/S Main St 0.5mi
+5. Turn right onto US-71 BUS S/S Main St 0.5mi
 
-Take the ramp to US-71 S 0.7mi
+6. Take the ramp to US-71 S 0.7mi
 
-Take the i-29 S/US-71 S exit on the left toward US-59 S/Kansas City 0.4mi
+7. Take the i-29 S/US-71 S exit on the left toward US-59 S/Kansas City 0.4mi
 
-Merge onto i-29 S/US-71 S 0.4mi
+8. Merge onto i-29 S/US-71 S 0.4mi
 
-keep left at the fork to stay on i-29 S 31mi
+9. keep left at the fork to stay on i-29 S 31mi
 
-keep right at the fork,follow signs for KCI Airport 0.3mi
+10. keep right at the fork,follow signs for KCI Airport 0.3mi
 
-Merge onto NW 120th St 1.5mi
+11. Merge onto NW 120th St 1.5mi
 
-Turn left onto E 9th St 
+12. Turn left onto E 9th St 
 destination will be on the right.
 
 ### Some favourite dishes
